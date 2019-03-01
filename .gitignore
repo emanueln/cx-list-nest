@@ -1,3 +1,4 @@
 # Do not track these folders
 customer-list-app-backend/node_modules
 node_modules/
+.vscode/
